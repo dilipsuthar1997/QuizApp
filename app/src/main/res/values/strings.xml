@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score : 0/20</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Amartya Sen was awarded the Nobel prize for his contribution to Welfare Economics.</string>
+    <string name="question_2">The Headquarters of the Southern Naval Command of the India Navy is located at Thiruvananthapuram.</string>
+    <string name="question_3">William Hewlett and David Packard set up a small company called apple.</string>
+    <string name="question_4">Earth Rotation is also called annual motion of the earth?</string>
+    <string name="question_5">Sachin Tendulkar has not played a single International T20 match for India.</string>
+    <string name="question_6">There are 4 sessions of the Parliament each year: Spring, Summer, Autumn and Winter.</string>
+    <string name="question_7">The Mahabharata is a part of The Bhagavad Gita.</string>
+    <string name="question_8">The Captain Roop Singh stadium is named after a former Indian cricketer.</string>
+    <string name="question_9">Google was originally called \"Backrub\".</string>
+    <string name="question_10">The National Security Guards are also known as Black Cat Commandos due to their uniforms.</string>
+    <string name="question_11">The Census in India occur after every 8 years.</string>
+    <string name="question_12">The Indian Penal Code came into operation on 1st January, 1862.</string>
+    <string name="question_13">The Rajya Sabha can have a maximum of 552 members.</string>
+    <string name="question_14">Electrons are larger than molecules.</string>
+    <string name="question_15">The Atlantic Ocean is the biggest ocean on Earth.</string>
+    <string name="question_16">The chemical make up food often changes when you cook it.</string>
+    <string name="question_17">The human body has two lungs.</string>
+    <string name="question_18">Mercury is the closest planet to the Sun.</string>
+    <string name="question_19">Conductors have low resistance.</string>
+    <string name="question_20">Spiders have six legs.</string>
+
+</resources>
